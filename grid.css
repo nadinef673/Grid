@@ -1,0 +1,65 @@
+.header {
+  border: 15px red solid;
+  padding: 50px;
+  margin: 20px;
+  background-color: whitesmoke;
+  text-align: center;
+  font-family: cursive;
+  font-weight: bold;
+  font-size: large;
+}
+
+.foot {
+  border: 15px red solid;
+  padding: 50px;
+  margin: 20px;
+  background-color: whitesmoke;
+  text-align: center;
+  font-family: cursive;
+  font-weight: bold;
+  font-size: large;
+}
+
+.grid {
+  display: inline flex;
+  justify-content: center;
+}
+
+.product1 {
+  border: 15px purple solid;
+  padding: 20px;
+  margin: 20px;
+  background-color: whitesmoke;
+  text-align: center;
+  font-family: cursive;
+  font-weight: bold;
+  font-size: large;
+  width: 100;
+  justify-content: center;
+}
+
+.product2 {
+  border: 15px purple solid;
+  padding: 20px;
+  margin: 20px;
+  background-color: whitesmoke;
+  text-align: center;
+  font-family: cursive;
+  font-weight: bold;
+  font-size: large;
+  width: 100;
+  justify-content: center;
+}
+
+.product3 {
+  border: 15px purple solid;
+  padding: 20px;
+  margin: 20px;
+  background-color: whitesmoke;
+  text-align: center;
+  font-family: cursive;
+  font-weight: bold;
+  font-size: large;
+  width: 100;
+  justify-content: center;
+}
